@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Ashish
 
-<!--
-**Ashisharora02511/Ashisharora02511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Java Backend Developer with 5 years of experience
+- Learning DevOps, Cloud & Microservices
+- Building production-grade applications using Spring Boot
 
-Here are some ideas to get you started:
+## 🔥 Current Focus
+- 90 Days of DevOps Challenge
+- Docker & Kubernetes
+- CI/CD Pipelines
+- System Design & Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java
+- Spring Boot
+- Spring Security
+- Microservices
+- MySQL & PostgreSQL
+- Redis
+- Kafka
+- Docker
+- Linux
+- Git & GitHub
+
+## 📌 Featured Projects
+- Ecommerce Microservices Project
+- 90 Days of DevOps
+- Shell Scripts Collection
+- DevOps Notes
+
+## 📫 Connect With Me
+- LinkedIn: YOUR_LINKEDIN
+- GitHub: YOUR_GITHUB_LINK
